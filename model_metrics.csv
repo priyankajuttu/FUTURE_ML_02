@@ -1,0 +1,6 @@
+Metric,Logistic_Regression,Random_Forest,XGBoost
+Accuracy,0.99,0.97,1.0
+Precision,1.0,0.97,1.0
+Recall,0.98,0.98,1.0
+F1 Score,0.99,0.98,1.0
+ROC AUC,0.99,0.97,1.0
